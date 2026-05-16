@@ -237,9 +237,3 @@ Le fichier `fake_data.sql` inclut :
 | **Total** | **59** |
 
 15 cours couvrant les semestres S1 à S7, et ~260 notes avec des distributions réalistes (quelques excellents, majorité passables, quelques échecs).
-
----
-
-## Auteur
-
-Projet réalisé dans le cadre du module **Développement Java** — TEK-UP Ingénierie, Année Académique 2024–2025.
